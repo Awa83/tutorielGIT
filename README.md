@@ -1,2 +1,2 @@
 # Tutoriel
-Ceci est un tutoriel pour la chaine YouTube getCodingKnowledge
+Ceci est un tutoriel depuis la chaine YouTube getCodingKnowledge
